@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hullo! I'm Amrita (she/her) and I'm currently learning Python and JavaScript.
 
 <!--
 **ChirpBird/chirpbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
